@@ -1,0 +1,46 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  height: 80%;
+  width: 100%;
+  position: center;
+  opacity: .5;
+}
+.bgimg:hover {
+	opacity: 1;
+}
+.middle {
+    color: black; 
+    font-family: Raleway, Helvetica, sans-serif; 
+    text-align: center; 
+	background-color: #03082b;
+}
+.refer {
+	background-color: #03082b;
+}
+body{
+	background-color: #03082b;
+}
+footer{
+	color: white;
+	text-align: center;
+	margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+h1{
+	color: white;
+	margin-bottom: 0.5rem;
+    margin-top: 3rem;
+}
+h2{
+	color: white;
+}
+p{
+	color: silver;
+}
+a{
+	color: #d5e0df;
+}
+a:hover{
+	color: #872c05;
+}
